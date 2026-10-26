@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brick-works-masonry.vercel.app/sitemap.xml
